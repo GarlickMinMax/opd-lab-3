@@ -20,7 +20,9 @@ script = ExtResource("1_k7icd")
 metadata/_custom_type_script = "uid://hmkrjv7ebc36"
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=398160896]
+scale = Vector2(0.5, 0.5)
 texture = SubResource("GradientTexture2D_1vivr")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=700212114]
+scale = Vector2(0.5, 0.5)
 shape = SubResource("CircleShape2D_1vivr")
